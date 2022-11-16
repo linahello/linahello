@@ -15,7 +15,6 @@
 </br>
 <h3 align="center">Connect with me : </h3>
 
-
 <p align="center">
 <a href="https://twitter.com/LinaHello_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LinaHello_twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lina111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinaHello_linkedin" height="30" width="40" /></a>
@@ -40,26 +39,13 @@
 </p>
 </br>
 
-<p align="left"> 
-  
-
-<h3 align="left" style="margin-top:50px">Github Stats:</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linahello&show_icons=true&locale=en" alt="linahello" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=linahello&" alt="linahello" /></p>
-
-<a href="https://github.com/linahello/github-readme-stats"><img alt="linahello's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linahello&langs_count=8&count_private=true&&layout=compact" /></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h3 align="left" style="margin-top:50px"><img src="https://visitor-badge.glitch.me/badge?page_id=linahello&right_color=orchid" alt="visitor badge"/>Github Stats:</h3>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=linahello&show_icons=true&locale=en&theme=dracula" alt="linahello" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=linahello&theme=dracula" alt="linahello" />
+</p>
+<br />
+<p align="center">
+<a href="https://github.com/linahello/github-readme-stats"><img alt="linahello's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linahello&langs_count=8&count_private=true&&layout=compact&theme=dracula" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linahello&theme=dracula" alt="linahello" /></a>
+</p>
