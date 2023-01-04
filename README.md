@@ -13,6 +13,7 @@
 
 - This is our fullstack team project : **[Place to Play](https://place-to-play.herokuapp.com/)**
 - This is our final team project : **[KWOTZ beta](https://kwotz-beta.vercel.app/)**
+- My portfolio : **[Here 🙂](https://www.linadev.com/)**
 </br>
 <h3 align="center">Connect with me : </h3>
 
