@@ -12,6 +12,7 @@
 <h3 align="center">You can find here all the projects I've worked on/I'm working on</h3>
 
 - This is our fullstack team project : **[Place to Play](https://place-to-play.herokuapp.com/)**
+- This is our final team project : **[KWOTZ beta](https://kwotz-beta.vercel.app/)**
 </br>
 <h3 align="center">Connect with me : </h3>
 
