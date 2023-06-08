@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in learning new skills and langage, travels, blockchains technologies and djing/producing softwares.
 - 🌱 I’m currently learning **ReactJS** and **Tailwind**.
-- 🔭 I’m currently working on an amazing project called **eco-id** until the end of my enternship.
+- 🔭 I’m currently working on an amazing project called **eco-id**.
 - 💞️ I’m looking to collaborate on new projects !
 - 📫 How to reach me : message on my LinkedIn or via my portfolio.
 </br>
