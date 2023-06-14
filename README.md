@@ -43,14 +43,8 @@
 
 <h3 align="left" style="margin-top:50px">Github Stats:</h3>
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=linahello&show_icons=true&locale=en&theme=dracula" alt="linahello" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=linahello&theme=dracula" alt="linahello" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=linahello&theme=solarized" alt="linahello" />
 </p>
-<p align="center">
-<a href="https://github.com/linahello/github-readme-stats"><img alt="linahello's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linahello&langs_count=8&count_private=true&&layout=compact&theme=dracula" /></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linahello&theme=dracula" alt="linahello" /></a>
-</br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=linahello&right_color=orchid" alt="visitor badge"/>
-</p>
+
 
 <br />
